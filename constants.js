@@ -8,7 +8,7 @@ const SIGNAL_TYPES = {
 	downRamp: 2
 }
 
-const FREQUENCIES = [10, 20, 50];
+const FREQUENCIES = [1, 3, 10];
 
 const DEFAULT_SIGNAL = SIGNAL_TYPES.upRamp;
 const DEFAULT_OUTPUT = 10;
